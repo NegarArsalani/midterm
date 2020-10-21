@@ -1,0 +1,53 @@
+body{
+    background-color: #cbaf87;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+}
+
+header{
+    background-color: #30475e;
+    position: fixed;
+    width: 100%;
+    top: 0%;
+}
+
+main{
+    background-color: #e7dec8;
+}
+    
+.no-bullet{
+    list-style: none;
+}
+
+.center {
+    text-align: center;
+}
+
+nav a:link{
+    color: rgb(31,183,221);
+}
+
+nav a:visited{
+    color: silver;
+}
+
+section ul{
+    color: teal;
+}
+
+img{
+    float: left;
+    padding-right: 10px;
+}
+
+.below{
+    clear: both;
+}
+
+main h1{
+    text-align: center;
+ }
+
+.big{
+    font-size: 2em;
+}
